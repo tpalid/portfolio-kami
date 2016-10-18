@@ -5,29 +5,29 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Theresa Palid
+  description: "A personal portfolio and blog website"
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Full Stack Developer</h1>
+     <p>I'm a developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "tpalid@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: tpalid
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/theresapalid
   pinterest:
   reddit:
   soundcloud:
@@ -48,7 +48,8 @@ theme_settings:
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
   str_next: "Next"
-  str_prev: "Prev"
+  str_prev: "Pref
+  v"
   str_continue_reading: "Read more &raquo;"
 
   # Colours, typography and padding
